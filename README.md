@@ -10,14 +10,11 @@
   Gustavo Guanabara</a>, de 2013
   <br>
   O primeiro do <a href="https://cursoemvideo.com" target="_blank"> Curso em Vídeo </a>
+  _Repositorio oficial disponibilizado pelo Guanabara [aqui](https://github.com/cursoemvideo/cursoemvideo-html5)_
 </h2>
 
 
-2. Baixe os dois pacotes usados no curso:
-   * Dê um fork no repositório oficial disponibilizado pelo Guanabara [aqui](https://github.com/cursoemvideo/cursoemvideo-html5);
-
-3. O site foi desenvolvido seguindo a [playlist](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) do curso e a interface proposta, portanto:
-
+   * O site foi desenvolvido seguindo a [playlist](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) do curso e a interface proposta, portanto:
    * Não é responsivo;
    * Há algumas tags que se tornaram obsoletas;
  
