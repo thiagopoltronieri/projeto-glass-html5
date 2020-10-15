@@ -15,6 +15,6 @@
    
    * O site foi desenvolvido seguindo a [playlist](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) do curso e a interface proposta, portanto:
    * Não é responsivo;
-   * Há algumas tags que se tornaram obsoletas;
-   *__ Repositorio oficial disponibilizado pelo Guanabara [aqui](https://github.com/cursoemvideo/cursoemvideo-html5) __
+   * Há algumas tags que se tornaram obsoletas;<br/>
+   *Repositorio oficial disponibilizado pelo Guanabara [aqui](https://github.com/cursoemvideo/cursoemvideo-html5)
  
