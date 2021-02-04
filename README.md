@@ -1,6 +1,7 @@
 # Projeto-glass-html5
 
   ## Site sobre o Google Glass
+  *Veja o site [aqui](https://projeto-glass-html5.vercel.app/)
   <br>
   Projeto do
   <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o" target="_blank">
